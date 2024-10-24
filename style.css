@@ -58,7 +58,7 @@ nav ul li a:hover {
     justify-content: space-between;
     align-items: center;
     padding: 120px 50px;
-    background: url("assets/ftclass.jpg") no-repeat center center/cover;
+    background: url("assets/ftclass1.jpg") no-repeat center center/cover;
     height: 100vh;
     background-attachment: fixed; /* For parallax effect */
 }
